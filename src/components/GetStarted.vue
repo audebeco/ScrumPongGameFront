@@ -11,7 +11,7 @@
         alt="Vuetify.js"
         height="250"
       >
-      <div class="primary--text mb-1 display-1 text-uppercase title-started text-xs-center">Le premier site de compétition de tennis de table agile</div>
+      <div class="primary--text mb-1 display-1 text-uppercase title-started text-xs-center">Le premier site de competition de tennis de table agile</div>
       <div class="primary--text font-weight-thin subheading mb-3 text-xs-center">Powered by CapsuleLab</div>
       <v-btn
         class="blue lighten-2 mt-5"
@@ -19,8 +19,8 @@
         large
         href="/pre-made-themes"
       >
-        Get Started
-      </v-btn>
+        Inscription
+      </v-btn><
     </v-layout>
   </v-container>
 </template>
